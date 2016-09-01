@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3974BF3F-12B3-D755-FF45-2EDA49D9DDF1}") = "Midi2Unity", "Assembly-CSharp.csproj", "{3AE9B332-2BE7-30C1-94AF-FF3F8F06713A}"
+EndProject
+Project("{3974BF3F-12B3-D755-FF45-2EDA49D9DDF1}") = "Midi2Unity", "Assembly-CSharp-Editor.csproj", "{14810879-DABE-4392-BBF2-126F9906AE53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE9B332-2BE7-30C1-94AF-FF3F8F06713A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE9B332-2BE7-30C1-94AF-FF3F8F06713A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE9B332-2BE7-30C1-94AF-FF3F8F06713A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE9B332-2BE7-30C1-94AF-FF3F8F06713A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14810879-DABE-4392-BBF2-126F9906AE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14810879-DABE-4392-BBF2-126F9906AE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14810879-DABE-4392-BBF2-126F9906AE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14810879-DABE-4392-BBF2-126F9906AE53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
